@@ -37,6 +37,6 @@ social-auth-core==3.2.0
 soupsieve==1.9.5
 sqlparse==0.3.0
 squareup==4.1.0.20200122
-urllib3==1.25.8
+urllib3==1.26.5
 whitenoise==5.0.1
 twilio==6.37.0
